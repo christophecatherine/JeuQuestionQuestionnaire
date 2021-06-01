@@ -1,0 +1,13 @@
+/* css pour les boutons de la page modifier questionnaire  */
+
+.buttonIMG {
+    background: none;
+    border: none;
+}
+
+
+/* permet de cacher l'alerte sur la page jeu  */
+
+.perso_hidden {
+    display: none;
+}
